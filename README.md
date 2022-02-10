@@ -4,6 +4,7 @@
 - 🌱 I’m currently reviewing **ReactJS**
 - 👯 I’m looking to collaborate on Technology Companies
 - 📫 How to reach me? Feel free to send me a message to my email alexisalegriav@gmail.com
+- 📫 Please visit my web portofolios: (JS-React) http://myreactportfolio-alexis.herokuapp.com/ (Python-Flask) https://alexisalegriav.herokuapp.com/
 - ⚡ Fun fact: Love to automate processes, no matter if a digital process
 
 <h3 align="left">Connect with me:</h3>
